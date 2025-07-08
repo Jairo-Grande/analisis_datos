@@ -9,7 +9,7 @@ from fastapi import Query
 
 LOG_DIR = os.path.dirname(__file__)
 #PATH PARA LAS PREDICCIONES.
-LOG_PATH = "predictions_log.csv"
+LOG_PATH = os.path.join(os.path.dirname(__file__), "predictions_log.csv")
 
 # Cargar el modelo
 model = joblib.load('app/modelo_xgb_optimizado.pkl')
