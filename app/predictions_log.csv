@@ -1,0 +1,7 @@
+gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,prediction,churn_probability,timestamp
+Male,0,Yes,No,12,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,85.5,1025.3,1,0.6197999715805054,2025-07-03T20:10:49.381121
+Male,0,Yes,No,12,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,85.5,1025.3,0,0.3734000027179718,2025-07-03T20:11:00.840167
+Male,0,Yes,No,12,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,85.5,1025.3,1,0.6197999715805054,2025-07-03T20:11:16.588715
+Male,0,Yes,No,12,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,85.5,1025.3,1,0.6197999715805054,2025-07-03T20:11:49.927107
+Male,0,Yes,No,12,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,85.5,1025.3,1,0.6197999715805054,2025-07-03T20:11:50.698830
+Male,0,Yes,No,12,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,85.5,1025.3,1,0.6197999715805054,2025-07-03T20:11:51.468030
